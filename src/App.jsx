@@ -78,7 +78,7 @@ function App() {
           <button className='btn btn-secondary' onClick={handleClearall}>Eliminar tareas completas</button>
         </div>
         <div className='col-md-8'>
-          <AlertInfo taskCompleted={countCompleted()} classAlert={'alert-warning'} />
+          <AlertInfo taskCompleted={countCompleted()} />
           <TasksList tasks={tasks} toggleTask={toggleTask} deleteTask={handleDeleteTask}/>
         </div>
       </div>
