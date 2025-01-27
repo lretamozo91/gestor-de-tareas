@@ -24,10 +24,15 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 2. Ve al directorio del proyecto:
     cd gestor-de-tareas
 
-3. Instala las dependencias:
+3. Asegúrate de tener instalada la versión adecuada de Node.js:
+    Node.js versión 18.0.0 (o compatible).
+    Puedes verificar tu versión actual con:
+    - node -v
+
+4. Instala las dependencias:
     npm install
 
-4. Inicia la aplicación:
+5. Inicia la aplicación:
     npm start
 
 ---
@@ -35,12 +40,12 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 ## 🛠️ Tecnologías utilizadas
 
 - ReactJS - Biblioteca para crear interfaces de usuario.
-- SweetAlert2 (opcional) - Para cuadros de diálogo personalizados.
+- SweetAlert2 - Para cuadros de diálogo personalizados.
 
 ---
 
 ## 📧 Contacto
 
-- Creador: Tu Nombre
+- Creador: Luis Retamozo
 - Email: lretamozo91@gmail.com
 - GitHub: https://github.com/lretamozo91
