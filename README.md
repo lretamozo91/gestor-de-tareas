@@ -25,8 +25,8 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
     cd gestor-de-tareas
 
 3. Asegúrate de tener instalada la versión adecuada de Node.js:
-    Node.js versión 18.0.0 (o compatible).
-    Puedes verificar tu versión actual con:
+- Node.js versión 18.0.0 (o compatible).
+- Puedes verificar tu versión actual con:
     - node -v
 
 4. Instala las dependencias:
